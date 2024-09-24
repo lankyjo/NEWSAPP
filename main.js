@@ -18,7 +18,7 @@ menuBar.addEventListener('click', ()=> {
     menu.classList.toggle('active')
 })
 
-const API_KEY = 'gpQywqs4NupUtqPFdvpOR7BkONhU1EqzeMVMHgWo'
+const API_KEY = 'e5Vxkqe6xYe8ohNrRhez3hiSqHsxqCgmdIdr0nD3'
 let API = `https://api.thenewsapi.com/v1/news/top?api_token=${API_KEY}&language=en`
 
 console.log(API)
